@@ -1,0 +1,50 @@
+(dp0
+I69
+(lp1
+S'Coke Float'
+p2
+aI120
+aF68.0
+asI999
+(lp3
+S'Cheese Burger'
+p4
+aI40
+aF50.0
+asI777
+(lp5
+S'Chicken Burger'
+p6
+aI35
+aF15.45
+asI555
+(lp7
+S'Fillet-O-Fish'
+p8
+aI10
+aF16.85
+asI333
+(lp9
+S'Shawarma'
+p10
+aI76
+aF6.0
+asI111
+(lp11
+S'Double Down'
+p12
+aI82
+aF12.0
+asI666
+(lp13
+S'Samosa'
+p14
+aI51
+aF1.0
+asI444
+(lp15
+S'Veg Burger'
+p16
+aI49
+aF8.95
+as.
